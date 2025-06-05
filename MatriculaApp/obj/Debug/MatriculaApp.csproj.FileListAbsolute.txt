@@ -1,0 +1,316 @@
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.exe.config
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.exe
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.pdb
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Properties.Resources.resources
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\Matricul.5EC983EE.Up2Date
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.exe
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.pdb
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.Inicial.resources
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Form1.resources
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Buffers.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Memory.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Buffers.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Memory.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.AgregarRelacionesMatricula.resources
+C:\Users\Alumno\source\repos\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.UltimosCambios.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.AssemblyReference.cache
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Form1.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormApoderado.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormCarrera.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormCurso.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormDetalleMatricula.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormEstudiante.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormHistorialAcademico.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.Inicial.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.AgregarRelacionesMatricula.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.UltimosCambios.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Properties.Resources.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.GenerateResource.cache
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.csproj.CoreCompileInputs.cache
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.exe.config
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.exe
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\MatriculaApp.pdb
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Identity.Client.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Newtonsoft.Json.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Buffers.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Collections.Immutable.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Memory.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Numerics.Vectors.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.Identity.Client.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\Newtonsoft.Json.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Buffers.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Collections.Immutable.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Memory.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Numerics.Vectors.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\Matricul.5EC983EE.Up2Date
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.exe
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.pdb
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.CrearTablaHistorialAcademico.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormInstituto.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormMatricula.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormMedioPago.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormPago.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormPeriodo.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormUsuario.resources
+D:\empresariales\7\MatriculaApp\MatriculaApp\obj\Debug\MatriculaApp.Migrations.ActualizarModelo.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\MatriculaApp.exe.config
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\MatriculaApp.exe
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\MatriculaApp.pdb
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\EntityFramework.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Buffers.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Memory.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\EntityFramework.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Buffers.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Memory.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.csproj.AssemblyReference.cache
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Form1.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormApoderado.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormCarrera.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormCurso.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormDetalleMatricula.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormEstudiante.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormHistorialAcademico.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormInstituto.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormMatricula.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormMedioPago.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormPago.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormPeriodo.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Forms.FormUsuario.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Migrations.Inicial.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Migrations.AgregarRelacionesMatricula.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Migrations.UltimosCambios.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Migrations.CrearTablaHistorialAcademico.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Migrations.ActualizarModelo.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.Properties.Resources.resources
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.csproj.GenerateResource.cache
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.csproj.CoreCompileInputs.cache
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\Matricul.5EC983EE.Up2Date
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.exe
+C:\Users\udani\Desktop\EXAMEN net\examen--main\examen--main\MatriculaApp\obj\Debug\MatriculaApp.pdb
